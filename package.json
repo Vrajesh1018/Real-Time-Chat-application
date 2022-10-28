@@ -1,0 +1,16 @@
+{
+  "name": "real-time-chat-application-traversy-media",
+  "version": "1.0.0",
+  "description": "This is basic Real time chat application With help of traversy media",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vrajesh R Soni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.3"
+  }
+}
